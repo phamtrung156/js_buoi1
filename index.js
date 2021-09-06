@@ -74,8 +74,6 @@ console.log("pham thanh trung")
 // console.log(b);
 // không dươc jhai báo trung tên
 
-var c = null;
-c = 2;
-console.log(c);
+
 
 

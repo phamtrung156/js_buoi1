@@ -22,4 +22,4 @@ var tong = hangTram + hangChuc + hangDonVi
 // dau ra
 
 console.log(" ket quả là " + tong);
-onclick = document.write(tong);
+
